@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-font {
+    font-family: "DIN Alternate", sans-serif;
+    font-size: 18px;
+    color: #e3e0e0;
+}
